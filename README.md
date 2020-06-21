@@ -12,7 +12,7 @@ FSC was build with regard to the following requirements:
 
 ### Prerequisites
 FSC needs a *Python3* interpreter and the numpy, PIL libraries preinstalled and an image to crop, say:
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/dominik-kopczynski/FSC/master/image/scan_0001.jpg" width="300"/></p>
+<p style="text-align: center;"><img style="border: 1px solid #dddddd" src="https://raw.githubusercontent.com/dominik-kopczynski/FSC/master/image/scan_0001.jpg" width="300"/></p>
 
 ### Using FSC
 
