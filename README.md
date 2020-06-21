@@ -15,7 +15,7 @@ FSC needs a *Python3* interpreter and the numpy, PIL libraries preinstalled and 
 <table width=100%>
  <tr>
   <td width=50%>&nbsp;</td>
-  <td><img style="border: 1px solid #dddddd" src="https://raw.githubusercontent.com/dominik-kopczynski/FSC/master/image/scan_0001.jpg" width="300"/></td>
+  <td><img style="border: 1px solid grey;" src="https://raw.githubusercontent.com/dominik-kopczynski/FSC/master/image/scan_0001.jpg" width="300"/></td>
   <td width=50%>&nbsp;</td>
  </tr>
 </table>
